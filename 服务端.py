@@ -15,3 +15,5 @@ while True:
 	print('连接地址：', addr)
 	c.send('欢迎访问菜鸟教程！')
 	c.close()  # 关闭连接
+
+###添加注释
